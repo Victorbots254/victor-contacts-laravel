@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <title>Victor Contacts App</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+    
 </head>
 <body>
 <nav class="navbar navbar-expand-lg navbar-light bg-light mb-4">
