@@ -25,15 +25,11 @@ Frontend (Laravel Blade templates) for simple user interaction.
 ✅ PHPUnit tests covering API and basic feature functionality.
 
 3. ⚙️ Project Setup
-1. Clone the repository
-git clone https://github.com/your-username/victor-contacts.git
-cd victor-contacts
-
-2. Install dependencies
+i.  Install dependencies
 composer install
 npm install && npm run dev
 
-3. Configure environment
+ii. Configure environment
 
 Copy .env.example to .env and set database credentials:
 
@@ -49,10 +45,10 @@ DB_DATABASE=contacts_db
 DB_USERNAME=root
 DB_PASSWORD=
 
-4. Run migrations & seeders
+iii. Run migrations & seeders
 php artisan migrate --seed
 
-5. Run development server
+iv. Run development server
 php artisan serve
 
 App will be available at http://127.0.0.1:8000
@@ -80,25 +76,11 @@ POST	/api/groups	Create new group
 
 6. 🖼️ Snapshots
 
-### Creating relevant files
-![migration](assets/images/creating relevant files.png)
-
-### Migration
-![contact list](assets/images/doing migration.png)
-
-### Launching
-![api test](assets/images/launching or opening browser.png)
-
-### Dashboard
-![tests](assets/images/dasbhoard.png)
-
-
-### Artisan Test
-![migration](assets/images/artisan test.png)
-
-### Groups page
-![contact list](assets/images/Group Page.png)
-
+![relevant files](assets/images/creating%20relevant%20files.png)
+![migration](assets/images/doing%20migration.png)
+![api test](assets/images/launching%20or%20opening%20browser.png)
+![artisan test](assets/images/artisan%20test.png)
+![group page](assets/images/Group%20Page.png)
 
 
 7. 🧪 Tests
