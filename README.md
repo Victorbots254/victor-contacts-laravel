@@ -76,11 +76,11 @@ POST	/api/groups	Create new group
 
 6. 🖼️ Snapshots
 
-![relevant files](assets/images/creating%20relevant%20files.png)
-![migration](assets/images/doing%20migration.png)
-![api test](assets/images/launching%20or%20opening%20browser.png)
-![artisan test](assets/images/artisan%20test.png)
-![group page](assets/images/Group%20Page.png)
+![dashboard](https://github.com/Victorbots254/victor-contacts-laravel/blob/main/assets/images/dasbhoard.PNG)
+![migration](https://github.com/Victorbots254/victor-contacts-laravel/blob/main/assets/images/doing%20migration.PNG)
+![project launch](https://github.com/Victorbots254/victor-contacts-laravel/blob/main/assets/images/launching%20or%20opening%20browser.PNG)
+![artisan test](https://github.com/Victorbots254/victor-contacts-laravel/blob/main/assets/images/artisan%20test.PNG)
+![group page](https://github.com/Victorbots254/victor-contacts-laravel/blob/main/assets/images/Group%20Page.PNG)
 
 
 7. 🧪 Tests
